@@ -1,0 +1,7 @@
+{
+  "name": "santAlert",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
